@@ -1,0 +1,7 @@
+C:\Users\rvictor\Desktop\dotnet-azure\bin\Debug\net6.0\publish\dotnet-azure.exe
+C:\Users\rvictor\Desktop\dotnet-azure\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\rvictor\Desktop\dotnet-azure\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\rvictor\Desktop\dotnet-azure\bin\Debug\net6.0\publish\dotnet-azure.dll
+C:\Users\rvictor\Desktop\dotnet-azure\bin\Debug\net6.0\publish\dotnet-azure.deps.json
+C:\Users\rvictor\Desktop\dotnet-azure\bin\Debug\net6.0\publish\dotnet-azure.runtimeconfig.json
+C:\Users\rvictor\Desktop\dotnet-azure\bin\Debug\net6.0\publish\dotnet-azure.pdb
